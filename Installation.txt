@@ -1,0 +1,6 @@
+Unzip and execute the Wizard in the "setup" folder.
+If an error message appears indicating that MSCOMCTL2 is missing, go to the Troubleshooting folder, unzip the file and paste it in these two addresses:
+ C:\Windows\System32
+ C:\Windows\SysWOW64
+Then open the command prompt (with administrative rights) and enter the following command:
+ regsvr32 MSCOMCTL2 
