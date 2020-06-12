@@ -3,7 +3,7 @@ A non-profit fangame based on Hiromu Arakawa's Fullmetal Alchemist programmed on
 
 Character sprites and story script by Romeo Vazquez (https://twitter.com/RAVN101)
 
-Overworld and mazes by me
+Overworld, battles, and mazes by me
 
 Minigames and menus by Ingrid García
 
